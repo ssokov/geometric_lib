@@ -1,8 +1,8 @@
 ## Содержание файлов:
-1. В файле [circle.py](https://github.com/ssokov/geometric_lib/blob/new_features_467535/circle.py) находятся функции для вычисления площади круга(AreaCircle) и вычисления длины окружности(PerimeterCircle).
-2. В файле [rectangle.py](https://github.com/ssokov/geometric_lib/blob/new_features_467535/rectangle.py.) находятся функции для вычисления площади прямоугольника(area) и вычисления периметра прямоугольника(perimeter).
-3. В файле [square.py](https://github.com/ssokov/geometric_lib/blob/new_features_467535/rectangle.py.) находятся функции для вычисления площади квадрата(area) и вычисления периметра квадрата(perimeter).
-4. В файле [triangle.py](https://github.com/ssokov/geometric_lib/blob/new_features_467535/rectangle.py.) находятся функции для вычисления площади треугольника(AreaTriangle) и вычисления периметра(PerimeterTriangle).
+1. В файле [circle.py](https://github.com/ssokov/geometric_lib/blob/new_branch/circle.py) находятся функции для вычисления площади круга(AreaCircle) и вычисления длины окружности(PerimeterCircle).
+2. В файле [rectangle.py](https://github.com/ssokov/geometric_lib/blob/new_branch/rectangle.py) находятся функции для вычисления площади прямоугольника(area) и вычисления периметра прямоугольника(perimeter).
+3. В файле [square.py](https://github.com/ssokov/geometric_lib/blob/new_branch/square.py) находятся функции для вычисления площади квадрата(area) и вычисления периметра квадрата(perimeter).
+4. В файле [triangle.py](https://github.com/ssokov/geometric_lib/blob/new_branch/triangle.py) находятся функции для вычисления площади треугольника(AreaTriangle) и вычисления периметра(PerimeterTriangle).
 
 ## Примеры вызовов функций circle.py:
 
